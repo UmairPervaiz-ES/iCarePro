@@ -1,0 +1,21 @@
+1) Create google cloud app
+ 
+    1) Go to link  https://console.cloud.google.com/
+    2) follow all steps carefully all step in compulsory (create app with help of images) totall 18 images
+       images add this project path (/documents/GoogleCalendar)
+
+2) After creating app successfully follow step mentioned below (relevant to code)  
+ 1) Download keys in json (image 18 )
+ 2) Copy json file in   public folder
+ 3) Go to constants file and set redirect URls for doctor and patient 
+    (exmaple : user while clicking SYNC CALENDER button will redirect the mentioned url
+ 4)  First create new Google Client in construct
+     1) Relative Json file (doctor or patient) is added based on the requested url
+     2) Access token is generated with refresh token and scope
+     3) Access token expires after 1h 
+     4) All data is saved in db with path (user_calenders table).
+     5) Construct is call (app/Http/Controllers/gCalendarController.php  function oauth) if calendar sync go to dashboard   screen
+5) if user sync the calendar then save event in email
+6) Access token update base on client ID & clinet Secret & end Point (app/Http/Controllers/gCalendarController.php         refreshTokenPatient and refreshTokenDoctor)     
+ 
+ please check  app/Http/Controllers/gCalendarController.php understand all follow 

@@ -1,0 +1,17 @@
+1) Create microsoft 365 account
+ 
+    link : https://developer.microsoft.com/en-us/microsoft-365/profile
+
+2) https://portal.azure.com/#home  
+   Please create account and after create the accout 
+   Create azure apps follow this step  (documents/OutlookCalendar)
+
+3) After create app add 
+        "tenant_id" ,
+        "client_id" ,
+        "client_secret" ,
+        "callback" ,
+        "redirect_uri", 
+         in config->constansts->outlook_dev file 
+
+ 4) Add outlook calendar please follow oCalendarController       

@@ -1,0 +1,64 @@
+1,BREMAX,Tablet,mg,Oral,Tulobuterol HCI,2
+2,Synthroid,Tablet,mcg,Oral,levothyroxine,2
+3,Amoxicillin,Tablet,mg,Oral,Amoxicillin,5
+4,Artifen,Tablet,mg,Oral,Diclofenac Sodium,36
+5,Arinac,Tablet,mg,Oral,Ibuprofen/Pseudoephedrine HCl,3
+6,Arinac Forte,Tablet,mg,Oral,Ibuprofen/Pseudoephedrine HCl,3
+7,Brufen,Tablet,mg,Oral,Ibuprofen,2
+8,Cremaffin,Tablet,mg,Oral,bisacodyl ,2
+9,Dayalets,Tablet,mg,Oral,"Vitamin C 500mg, Niacinamide 100mg",2
+10,KLARICID,Tablet,mg,Oral,Clarithromycin,2
+11,KLARICID XL,Tablet,mg,Oral,Clarithromycin,2
+12,CECON 500 CHEWABLE TABLETS,Tablet,mg,Oral,Vitamin C 500mg,2
+13,Acylex,Tablet,mg,Oral,Acyclovir,6
+14,Zecef,Tablet,mg,Oral,Cefuroxime,7
+15,Amoxicillin,Liquid,mg/ml,Oral,,5
+16,Arinac Suspension,Liquid,ml,Oral,Ibuprofen/Pseudoephedrine HCl,2
+17,BRUFEN DS SUSPENSION,Liquid,ml,Oral,Ibuprofen,2
+18,BRUFEN SUSPENSION,Liquid,ml,Oral,Ibuprofen,2
+19,CREMAFFIN,Liquid,ml,Oral,"Magnesium Hydroxide Mixture, Liquid Paraffin",2
+20,KLARICID DS GRANULES,Liquid,ml,Oral,Clarithromycin,2
+21,KLARICID GRANULES  ,Liquid,ml,Oral,Clarithromycin,2
+22,COFLOZ,Liquid,ml,Oral,"ify leaf, herbal",2
+23,ACYCLOVIR Suspension,Liquid,mg/ml,Oral,Acyclovir,6
+24,Zecef Suspension ,Liquid,ml,Oral,Cefuroxime,7
+25,Cefspan DS Susp,Liquid,ml,Oral,Cefixime,10
+26,KLARICID IV,Injections,mg,Injection,clarithromycin,2
+27,Zovirax IV Inf,Injections,mg/ml,Injection,Acyclovir,11
+28,Zecef Inj,Injections,gm,Injection,Cefuroxime,7
+29,Ketrol,Injections,mg,Injection,Ketamine,12
+30,CALYPSOL,Injections,mg/ml,Injection,Ketamine,13
+31,Streptomycin Sulphate,Injections,gm,Injection,streptomycin,14
+32,Sensocain Plain,Injections,mg,Injection,Bupivacaine Hydrochloride ,15
+33,Sensocain Spinal,Injections,ml,Injection,Bupivacaine Hydrochloride ,15
+34,Insuget NPH,Injections,IU/ml,Injection,"NPH Human Insulin, rDNA Origin",16
+35,Buscocin,Injections,mg,Injection,Hyoscine-N Butylbromide,17
+36,Elpomide,Injections,mg/ml,Injection,Metoclopramide Hcl,18
+37,Omega Infusion,Injections,mg,Injection,Omeprazole,5
+38,Transamin,Injections,mg,Injection,Tranexamic Acid,23
+39,Cefspan ,Capsule,mg,Oral,Cefixime,10
+40,Risek,Capsule,mg,Oral,Omeprazole,16
+41,chloramphenicol,Capsule,mg,Oral,Chloramphenicol,19
+42,Amoxicillin,Capsule,mg,Oral,Amoxicillin,11
+43,Azithronext,Capsule,mg,Oral,Azithromycin,24
+44,Doxycycline,Capsule,mg,Oral,Doxycycline,25
+45,Doxycycline Hyclate,Capsule,mg,Oral,Doxycycline Hyclate,25
+46,Transamin,Capsule,mg,Oral,tranexamic acid,23
+47,Diflucan,Capsule,mg,Oral,Fluconazole,26
+48, Fluothane Inhalation,Inhalers,ml,Inhalation,Halothane,27
+49,FORANE  Inhalation ,Inhalers,ml,Inhalation,Isoflurane,28
+50,Alnox,Inhalers,ml,Inhalation,Nitrous Oxide ,1
+51,Oxygen Inhalation,Inhalers,ml/L,Inhalation,Oxygen,1
+52,Sojourn Inhalation,Inhalers,ml,Inhalation,Sevoflurane,29
+53,Ultane Inhalation ,Inhalers,ml,Inhalation,Sevoflurane,30
+54,Suprane Inhalation ,Inhalers,ml,Inhalation,Desflurane,28
+55,Pulmicort Flexhaler,Plasma/Topical/Serum,mcg,Inhalation,Budesonide,31
+56,Spiriva,Plasma/Topical/Serum,mcg,Inhalation,Tiotropium Bromide,32
+57,Gebauer's Ethyl Chloride,Plasma/Topical/Serum,ml,Spray,Ethyl Chloride,33
+58,Lignocaine Gel ,Plasma/Topical/Serum,gm,Topical,Lignocaine,22
+59,GumNumb Topical Anesthetic ,Plasma/Topical/Serum,gm,Oral,Benzocaine Gel 20%,20
+60,Xylocaine spray ,Plasma/Topical/Serum,mg,Spray,Lidocaine,21
+61,COFLOZ,Lozenges, ,Oral,Ivy leaf,2
+62,Strepsils,Lozenges,mg,Oral,"dichlorobenzyl alcohol, amylmetacresol, vitamin C",34
+63,KLARICID DROPS,Drops,mg/ml,Oral,clarithromycin,36
+64,CECON DROPS,Drops,ml,Oral,vitamin C,26
